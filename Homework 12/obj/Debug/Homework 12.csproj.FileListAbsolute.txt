@@ -1,0 +1,7 @@
+C:\Users\roche\source\repos\Homework 12\Homework 12\bin\Debug\Homework 12.exe.config
+C:\Users\roche\source\repos\Homework 12\Homework 12\bin\Debug\Homework 12.exe
+C:\Users\roche\source\repos\Homework 12\Homework 12\bin\Debug\Homework 12.pdb
+C:\Users\roche\source\repos\Homework 12\Homework 12\obj\Debug\Homework 12.csprojResolveAssemblyReference.cache
+C:\Users\roche\source\repos\Homework 12\Homework 12\obj\Debug\Homework 12.csproj.CoreCompileInputs.cache
+C:\Users\roche\source\repos\Homework 12\Homework 12\obj\Debug\Homework 12.exe
+C:\Users\roche\source\repos\Homework 12\Homework 12\obj\Debug\Homework 12.pdb
